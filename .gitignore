@@ -1,0 +1,30 @@
+# Global Exclusions
+
+# Secrets & Configs
+**/secrets/
+**/.env
+**/*.log
+**/tmp/
+.DS_Store
+Thumbs.db
+/provider-config.yaml
+/opt/
+*.local
+
+# Logs & Temporary Files
+*.log
+*.txt
+/tmp/
+*.tmp
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+
+# Build Artifacts
+bin/
+__pycache__/
+
+# Systemd & Generated Files
+*.service.d/

@@ -1,0 +1,7 @@
+discord:
+  - id: "subdomain-bot"  
+    discord_channel: "discord_channel-name"
+    discord_username: "your-discord_username"
+    discord_format: "{{data}}"
+    discord_webhook_url: "DISCORD_WEBHOOK_PLACEHOLDER
+
